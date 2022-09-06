@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13" height="15" viewBox="0 0 13 15">
+    <defs>
+        <filter id="pz08bnho2a">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.905882 0 0 0 0 0.200000 0 0 0 0 0.192157 0 0 0 1.000000 0"/>
+        </filter>
+        <path id="xcllafjdtb" d="M0 0L10 0 10 11 0 11z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g>
+                        <g>
+                            <g>
+                                <g>
+                                    <g filter="url(#pz08bnho2a)" transform="translate(-133 -325) translate(20 140) translate(0 174) translate(27 11) translate(86)">
+                                        <g transform="translate(2)">
+                                            <mask id="i5lsk582dc" fill="#fff">
+                                                <use xlink:href="#xcllafjdtb"/>
+                                            </mask>
+                                            <path fill="#1D1D1B" d="M7.843 3.164l-.83-.843.964-1.09.831.845-.965 1.088zm-4.928 5.56c-.552-.184-.76-.592-.832-.843L6.29 3.137l.831.843-4.205 4.743zM8.523.233C8.369.078 8.168 0 7.966 0c-.213 0-.427.088-.582.261L.804 7.685l-.767 2.354c-.159.491.215.961.681.961.074 0 .151-.012.228-.038l2.219-.88 6.63-7.48c.283-.315.272-.8-.026-1.102L8.523.234z" mask="url(#i5lsk582dc)"/>
+                                        </g>
+                                    </g>
+                                    <path stroke="#E73331" stroke-linecap="round" stroke-width="1.5" d="M1.5 13.5L11.5 13.5" transform="translate(-133 -325) translate(20 140) translate(0 174) translate(27 11) translate(86)"/>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

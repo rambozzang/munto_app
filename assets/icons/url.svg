@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <circle cx="15" cy="15" r="14.5" stroke="#DBDBDB"/>
+                <text fill="#999696" font-family="NotoSansCJKkr-Bold, Noto Sans CJK KR" font-size="10" font-weight="bold" letter-spacing="-.481">
+                    <tspan x="6.186" y="19">URL</tspan>
+                </text>
+            </g>
+            <path d="M0 0H30V30H0z"/>
+        </g>
+    </g>
+</svg>

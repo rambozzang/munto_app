@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="24" viewBox="0 0 25 24">
+    <defs>
+        <filter id="faivid842a">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.600000 0 0 0 0 0.588235 0 0 0 0 0.588235 0 0 0 1.000000 0"/>
+        </filter>
+        <path id="vkk4f8xe9b" d="M0 0L18 0 18 18 0 18z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g filter="url(#faivid842a)" transform="translate(-192 -221) translate(20 221) translate(140)">
+                    <g>
+                        <g>
+                            <g transform="translate(33) translate(3 3)">
+                                <mask id="nnf6didctc" fill="#fff">
+                                    <use xlink:href="#vkk4f8xe9b"/>
+                                </mask>
+                                <path fill="#383535" d="M9 0C4.03 0 0 4.029 0 9c0 4.97 4.03 9 9 9 4.971 0 9-4.03 9-9 0-4.971-4.029-9-9-9m0 1.5c4.135 0 7.5 3.364 7.5 7.5s-3.365 7.5-7.5 7.5c-4.136 0-7.5-3.364-7.5-7.5S4.864 1.5 9 1.5" mask="url(#nnf6didctc)"/>
+                            </g>
+                            <path fill="#383535" d="M9 3.5c.305 0 .55.057.735.171.186.114.274.306.264.574l-.228 5.583c-.01.252-.092.428-.25.526-.157.097-.33.146-.521.146-.19 0-.364-.049-.52-.146-.159-.098-.241-.274-.251-.526l-.228-5.583c-.01-.268.078-.46.264-.574.185-.114.43-.171.735-.171m0 8c.28 0 .517.097.71.29.193.193.29.43.29.71 0 .282-.097.519-.29.711-.193.192-.43.289-.71.289-.28 0-.517-.097-.71-.289-.193-.192-.29-.429-.29-.71 0-.281.097-.518.29-.711.193-.193.43-.29.71-.29" transform="translate(33) translate(3 3)"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

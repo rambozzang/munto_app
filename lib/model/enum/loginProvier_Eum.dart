@@ -1,0 +1,1 @@
+enum LoginMethodProvider { EMAIL, KAKAO, APPLE, FACEBOOK, NONE }
